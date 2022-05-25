@@ -1,0 +1,14 @@
+.App {
+  padding: 2rem 3rem;
+}
+
+section {
+  margin-top: 1rem;
+  padding: 1rem 2rem;
+  border-radius: 0.25rem;
+  border: 1px solid #bbb;
+}
+
+.sectionHeading {
+  color: #555;
+}
